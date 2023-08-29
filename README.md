@@ -42,7 +42,7 @@ An official source code for paper CONVERT:Contrastive Graph Clustering with Reli
 
 ### Requirements
 
-The proposed CONVERT is implemented with python 3.8.8 on a NVIDIA 1080 Ti GPU. 
+The proposed CONVERT is implemented with python 3.8.8 on a NVIDIA 2080 Ti GPU. 
 
 Python package information is summarized in **requirements.txt**:
 
