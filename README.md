@@ -31,7 +31,7 @@ An official source code for paper CONVERT:Contrastive Graph Clustering with Reli
  Illustration of CONVERT:Contrastive Graph Clustering with Reliable Augmentation mechanism. 
 </p>
 <div  align="center">    
-    <img src="./assets/convert.png" width=60%/>
+    <img src="./assets/convert.jpg" width=60%/>
 </div>
 
 
