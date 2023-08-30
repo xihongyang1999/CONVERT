@@ -66,10 +66,11 @@ python train.py
 If you use code or datasets in this repository for your research, please cite our paper.
 
 ```
-@article{CONVERT,
+@inproceedings{CONVERT,
   title={CONVERT: Contrastive Graph Clustering with Reliable Augmentation},
   author={Yang, Xihong and Tan, Cheng and Liu, Yue and Liang, Ke and Wang, Siwei and Zhou, Sihang and Xia, Jun and Li, Stan Z and Liu, Xinwang and Zhu, En},
-  journal={arXiv preprint arXiv:2308.08963},
+  booktitle={Proceedings of the 31th ACM International Conference on Multimedia},
+  pages={},
   year={2023}
 }
 ```
