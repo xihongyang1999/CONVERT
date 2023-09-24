@@ -28,6 +28,38 @@ args = parser.parse_args()
 args.cuda = not args.no_cuda and torch.cuda.is_available()
 
 
+# parameter settings
+if args.dataset == 'cora':
+    args.gnnlayers = 5
+    args.dims = 800
+    args.lr = 1e-5
+
+elif args.dataset == 'amap':
+    args.gnnlayers = 5
+    args.dims = 500
+    args.lr = 1e-3
+
+elif args.dataset == 'citeseer':
+    args.gnnlayers = 7
+    args.dims = 1500
+    args.lr = 1e-3
+
+elif args.dataset == 'bat':
+    args.gnnlayers = 7
+    args.dims = 50
+    args.lr = 1e-3
+
+elif args.dataset == 'eat':
+    args.gnnlayers = 10
+    args.dims = 100
+    args.lr = 1e-7
+
+elif args.dataset == 'uat':
+    args.gnnlayers = 4
+    args.dims = 100
+    args.lr = 1e-3
+
+
 
 acc_list = []
 nmi_list = []
