@@ -18,7 +18,7 @@
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
-[![visitors][visitors-img]][adgc-url]
+
 
 
 An official source code for paper CONVERT:Contrastive Graph Clustering with Reliable Augmentation, accepted by ACM MM 23. Any communications or issues are welcomed. Please contact xihong_edu@163.com. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
@@ -67,10 +67,10 @@ If you use code or datasets in this repository for your research, please cite ou
 
 ```
 @inproceedings{CONVERT,
-  title={CONVERT: Contrastive Graph Clustering with Reliable Augmentation},
+  title={Convert: Contrastive graph clustering with reliable augmentation},
   author={Yang, Xihong and Tan, Cheng and Liu, Yue and Liang, Ke and Wang, Siwei and Zhou, Sihang and Xia, Jun and Li, Stan Z and Liu, Xinwang and Zhu, En},
-  booktitle={Proceedings of the 31th ACM International Conference on Multimedia},
-  pages={},
+  booktitle={Proceedings of the 31st ACM international conference on multimedia},
+  pages={319--327},
   year={2023}
 }
 ```
